@@ -12,11 +12,11 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angelaarojas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelaarojas)
 
 [![GitHub](https://img.shields.io/badge/GitHub-40373A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angela-rojas05)
 
-[![Correo](https://img.shields.io/badge/Correo-D89AA5?style=for-the-badge&logo=gmail&logoColor=white)](angela.rojas@tecdesoftware.edu.mx)
+[![Correo](https://img.shields.io/badge/Correo-D89AA5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angela.rojas@tecdesoftware.edu.mx)
 
 </div>
 
