@@ -100,9 +100,9 @@ Permite gestionar información de clientes, casos, evidencias, materiales, cotiz
 
 <br>
 
-<a href="[SITEMANAGER_REPOSITORY]">
+<a href="https://github.com/angela-rojas05/App-SiteManager">
 
-![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-B76E79?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://img.shields.io/badge/VER%20PROYECTO-B76E79?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -135,9 +135,9 @@ El proyecto implementa separación de responsabilidades entre dominio, persisten
 
 <br>
 
-<a href="[FILMVERSE_REPOSITORY]">
+<a href="https://github.com/angela-rojas05/FilmVerse.api">
 
-![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-D89AA5?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://img.shields.io/badge/VER%20PROYECTO-D89AA5?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -170,9 +170,9 @@ Backend desarrollado para gestionar productos y compras mediante servicios REST.
 
 <br>
 
-<a href="[MARKET_REPOSITORY]">
+<a href="https://github.com/angela-rojas05/market-backend-2026-3-b">
 
-![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-C98B96?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://img.shields.io/badge/VER%20PROYECTO-C98B96?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -193,9 +193,9 @@ Proyecto enfocado en la creación de servicios web y validación de información
 
 <br><br>
 
-<a href="[POKEDEX_REPOSITORY]">
+<a href="https://github.com/angela-rojas05/pokedex-api-3b">
 
-![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-40373A?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://img.shields.io/badge/VER%20PROYECTO-40373A?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
