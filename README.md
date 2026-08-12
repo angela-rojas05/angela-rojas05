@@ -376,17 +376,18 @@ arquitectura de software y desarrollo de proyectos.
 ---
 
 <div align="center">
-
-## 📊 GITHUB
+  
+## 🌷 MI ACTIVIDAD EN GITHUB
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&hide_border=true&bg_color=FFF8F5&title_color=B76E79&icon_color=D89AA5&text_color=574C50&ring_color=B76E79" height="165"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&hide_border=true&bg_color=FFF8F5&title_color=B76E79&text_color=574C50" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=angela-rojas05&show_icons=true&hide_border=true&bg_color=FFF8F5&title_color=B76E79&icon_color=D89AA5&text_color=574C50&ring_color=B76E79" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-rojas05&layout=compact&hide_border=true&bg_color=FFF8F5&title_color=B76E79&text_color=574C50" height="165"/>
 
 </div>
-
 ---
 
 <div align="center">
