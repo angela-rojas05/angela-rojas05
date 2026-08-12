@@ -376,16 +376,64 @@ arquitectura de software y desarrollo de proyectos.
 ---
 
 <div align="center">
-  
+
 ## 🌷 MI ACTIVIDAD EN GITHUB
 
 <br>
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=angela-rojas05&show_icons=true&hide_border=true&bg_color=FFF8F5&title_color=B76E79&icon_color=D89AA5&text_color=574C50&ring_color=B76E79" height="165"/>
+<td align="center" width="25%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-rojas05&layout=compact&hide_border=true&bg_color=FFF8F5&title_color=B76E79&text_color=574C50" height="165"/>
+### 🏗️
+**Proyectos**
+
+<br>
+
+Aplicaciones y APIs desarrolladas durante mi formación
+
+</td>
+
+<td align="center" width="25%">
+
+### ☕
+**Java**
+
+<br>
+
+Spring Boot · APIs REST · JPA
+
+</td>
+
+<td align="center" width="25%">
+
+### 💜
+**C#**
+
+<br>
+
+ASP.NET Core · Entity Framework
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+**Python**
+
+<br>
+
+FastAPI · APIs · Próximamente IA
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+[![Visitar GitHub](https://img.shields.io/badge/VISITAR%20MI%20GITHUB-40373A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angela-rojas05)
 
 </div>
 
