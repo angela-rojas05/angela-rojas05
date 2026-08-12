@@ -399,9 +399,11 @@ arquitectura de software y desarrollo de proyectos.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-B76E79?style=for-the-badge\&logo=linkedin\&logoColor=white)]([LINKEDIN])
-[![GitHub](https://img.shields.io/badge/GITHUB-40373A?style=for-the-badge\&logo=github\&logoColor=white)]([GITHUB])
-[![Correo](https://img.shields.io/badge/CORREO-D89AA5?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:[EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-B76E79?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelaarojas)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-40373A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angela-rojas05)
+
+[![Correo](https://img.shields.io/badge/CORREO-D89AA5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angela.rojas@tecdesoftware.edu.mx)
 
 <br><br>
 
