@@ -388,6 +388,7 @@ arquitectura de software y desarrollo de proyectos.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-rojas05&layout=compact&hide_border=true&bg_color=FFF8F5&title_color=B76E79&text_color=574C50" height="165"/>
 
 </div>
+
 ---
 
 <div align="center">
