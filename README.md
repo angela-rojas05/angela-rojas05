@@ -12,7 +12,6 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelaarojas)
 
 [![GitHub](https://img.shields.io/badge/GitHub-40373A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angela-rojas05)
 
